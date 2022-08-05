@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hello
 
+Perkenalkan nama saya Bimo Aryo Bramantyo KR  
+Saya mahasiswa jurusan Teknik Informatika di Universitas Negeri Semarang (UNNES)  
+Akun lain [GitHub](https://github.com/synn15)
+<p align="left">
+<a href="https://github.com/Bimoaryobkr">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bimoaryobkr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bimoaryobkr&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!--
 **Bimoaryobkr/Bimoaryobkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
